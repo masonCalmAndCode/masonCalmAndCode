@@ -4,11 +4,13 @@
 
 ### Hi there 👋
 
-I'm Mason, a BackEnd software engineer with a wide range of interests.
-Enjoy coding and diving into process of problem solving.
-Keep pursuing consistent improvements, growth and results.
-I'm also passionate about sharing knowledge and experiences.
+<p>
+I'm Mason, a BackEnd software engineer with a wide range of interests.</br>
+Enjoy coding and diving into process of problem solving.</br>
+Keep pursuing consistent improvements, growth and results.</br>
+I'm also passionate about sharing knowledge and experiences.</br>
 Welcome to any feedback about my code and posts. 🤗
+</p>
 
 <div id="badges" align="left">
   <a href="https://www.linkedin.com/in/masonyu/">  
@@ -22,9 +24,9 @@ Welcome to any feedback about my code and posts. 🤗
   </a>
 </div>
 
-<p align="center">
-  <img width="45%" align="center" alt="Mason github stats" src="https://github-readme-stats.vercel.app/api?username=masonCalmAndCode&show_icons=true&hide_border=true&theme=dark" />
-  <img width="45%" align="center" alt="Mason Language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masonCalmAndCode" />
+<p align="left">
+  <img width="50%" align="center" alt="Mason github stats" src="https://github-readme-stats.vercel.app/api?username=masonCalmAndCode&show_icons=true&hide_border=true&theme=dark" />
+  <img width="50%" align="center" alt="Mason Language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masonCalmAndCode&theme=dark" />
 </p>
 
 <!--
