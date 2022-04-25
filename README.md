@@ -25,8 +25,8 @@ Welcome to any feedback about my code and posts. 🤗
 </div>
 
 <p align="left">
-  <img width="50%" align="center" alt="Mason github stats" src="https://github-readme-stats.vercel.app/api?username=masonCalmAndCode&show_icons=true&hide_border=true&theme=dark" />
-  <img width="50%" align="center" alt="Mason Language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masonCalmAndCode&theme=dark" />
+  <img width="50%" align="center" alt="Mason github stats" src="https://github-readme-stats.vercel.app/api?username=masonCalmAndCode&show_icons=true&hide_border=true&theme=merko" />
+  <img width="49%" align="center" alt="Mason Language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masonCalmAndCode&theme=merko" />
 </p>
 
 <!--
