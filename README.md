@@ -14,26 +14,28 @@ Welcome to any feedback about my code and posts. 🤗
   <a href="https://www.linkedin.com/in/masonyu/">  
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-<a href="mailto:t100210022002@gmail.com"><img src="https://img.shields.io/badge/gmail-%23d44638.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
+  <a href="mailto:t100210022002@gmail.com">
+    <img src="https://img.shields.io/badge/gmail-%23d44638.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
   <a href="https://medium.com/@white_100">
     <img src="https://img.shields.io/badge/medium-%23000000.svg?&style=for-the-badge&logo=medium&logoColor=white"/>
   </a>
 </div>
-<img width="45%" align="center" alt="Mason github stats" src="https://github-readme-stats.vercel.app/api?username=masonCalmAndCode&show_icons=true&hide_border=true&theme=dark" />
 
-<img width="45%" align="center" alt="Mason Language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masonCalmAndCode" />
+<p align="center">
+  <img width="45%" align="center" alt="Mason github stats" src="https://github-readme-stats.vercel.app/api?username=masonCalmAndCode&show_icons=true&hide_border=true&theme=dark" />
+  <img width="45%" align="center" alt="Mason Language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masonCalmAndCode" />
+</p>
 
 <!--
 **masonCalmAndCode/masonCalmAndCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
+- 💬 Ask me about ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
