@@ -22,6 +22,9 @@ Welcome to any feedback about my code and posts. 🤗
   <a href="https://medium.com/@white_100">
     <img src="https://img.shields.io/badge/medium-%23000000.svg?&style=for-the-badge&logo=medium&logoColor=white"/>
   </a>
+  <a href="https://www.instagram.com/step.for.coder">  
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagran Badge"/>
+  </a>
 </div>
 
 <p align="left">
