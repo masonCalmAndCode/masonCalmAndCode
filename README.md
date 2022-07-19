@@ -5,8 +5,11 @@
 <div id="header" align="Left">
   <div >
     I'm Mason, a BackEnd software engineer with a wide range of interests.
+    </br>
     Enjoy coding and diving into process of problem solving.
+    </br>
     I'm also passionate about sharing knowledge and experience.
+    </br>
     Welcome to any feedback about my code and posts. 
   </div>
 </div>
@@ -25,11 +28,12 @@
 
 <p align="left">
 
-  <img width="100%" align="center" alt="Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=masonCalmAndCode&theme=dark" />
   
-  <img width="100%" align="center" alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=masonCalmAndCode&show_icons=true&hide_border=true&theme=merko" />
-  
-  <img width="100%" align="center" alt="Github Language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masonCalmAndCode&theme=merko" />
+  <img width="49%" align="left" alt="Github Language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masonCalmAndCode&theme=merko" />  
+
+  <img width="42%" align="center" alt="Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=masonCalmAndCode&theme=dark" />
+
+  <img width="42%" align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=masonCalmAndCode&show_icons=true&hide_border=true&theme=merko" />
 
 </p>
 
