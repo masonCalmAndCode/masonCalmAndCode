@@ -1,36 +1,38 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="200"/>
+
+
+### Hi 👋
+
+<div id="header" align="Left">
+  <div >
+    I'm Mason, a BackEnd software engineer with a wide range of interests.
+    Enjoy coding and diving into process of problem solving.
+    I'm also passionate about sharing knowledge and experience.
+    Welcome to any feedback about my code and posts. 
+  </div>
 </div>
 
-### Hi there 👋
-
-<p>
-I'm Mason, a BackEnd software engineer with a wide range of interests.</br>
-Enjoy coding and diving into process of problem solving.</br>
-Keep pursuing consistent improvements, growth and results.</br>
-I'm also passionate about sharing knowledge and experiences.</br>
-Welcome to any feedback about my code and posts. 🤗
-</p>
-
-<div id="badges" align="left">
+<h3 align="left">
+  <p>
+    <img src="https://media.giphy.com/media/vi9q6kkhLiJVx3L8TO/giphy.gif" width="100"/>
+  </p>
   <a href="https://www.linkedin.com/in/masonyu/">  
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:t100210022002@gmail.com">
-    <img src="https://img.shields.io/badge/gmail-%23d44638.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://medium.com/@white_100">
     <img src="https://img.shields.io/badge/medium-%23000000.svg?&style=for-the-badge&logo=medium&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/step.for.coder">  
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagran Badge"/>
-  </a>
-</div>
+</h3>
 
 <p align="left">
-  <img width="50%" align="center" alt="Mason github stats" src="https://github-readme-stats.vercel.app/api?username=masonCalmAndCode&show_icons=true&hide_border=true&theme=merko" />
-  <img width="49%" align="center" alt="Mason Language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masonCalmAndCode&theme=merko" />
+
+  <img width="100%" align="center" alt="Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=masonCalmAndCode&theme=dark" />
+  
+  <img width="100%" align="center" alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=masonCalmAndCode&show_icons=true&hide_border=true&theme=merko" />
+  
+  <img width="100%" align="center" alt="Github Language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masonCalmAndCode&theme=merko" />
+
 </p>
+
 
 <!--
 **masonCalmAndCode/masonCalmAndCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
